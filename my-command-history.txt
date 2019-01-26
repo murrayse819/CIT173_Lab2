@@ -387,3 +387,34 @@
   385  tail -5 my-phonebook.txt > my-tail-phonebook.txt 
   386  cat my-tail-phonebook.txt 
   387  history > my-command-history.txt
+  388  cat my-command-history.txt 
+  389  git init
+  390  remote add origin https://github.com/murrayse819/CIT173_Lab2.git
+  391  sudo snap install remote
+  392  remote add origin https://github.com/murrayse819/CIT173_Lab2.git
+  393  git init
+  394  git remote add origin https://github.com/murrayse819/CIT173_Lab2.git
+  395  add --all
+  396  git add --all
+  397  commit -m "Initial commit"
+  398  git commit -m "Initial commit"
+  399  git push origin master
+  400  git init
+  401  git commit -m "Initial commit"
+  402  git remote add origin https://github.com/murrayse819/CIT173_Lab2.git
+  403  git push -u origin master
+  404  ls -l
+  405  cd
+  406  ls -l
+  407  cd CIT173_Lab2
+  408  ls
+  409  cd
+  410  ls -l
+  411  rmdir CIT173_Lab2
+  412  ls -l
+  413  mv CIT173_Lab2_Files/ CIT173_Lab2
+  414  ls -l
+  415  cd CIT173_Lab2
+  416  ls -1
+  417  ls -l
+  418  history > my-command-history.txt 
